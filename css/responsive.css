@@ -1,0 +1,960 @@
+@media (min-width: 1400px) {
+    /* ==navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+    /* ==navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 57px;
+        text-align: center;
+    }
+
+    #banner .left .item1 {
+        padding: 236px 0px 236px 0;
+    }
+    #banner .left .item2 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item3 {
+        padding: 236px 0px 155px 0;
+    }
+
+    #banner .left .item h3 {
+        font-size: 40px;
+        text-align: center;
+        margin: 28px 0;
+    }
+
+    #banner .left .item .button {
+        text-align: center !important;
+    }
+    #banner .left .item .button a{
+        text-align: center;
+    }
+
+    #banner .right {
+        margin-top: 22px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #banner .right img{
+        width: 100%;
+    }
+    /* ===banner part end === */
+
+    /* :===required part start === */
+    #required {
+        padding: 100px 0;
+    }
+
+    #required h3 {
+        margin: 0 0px 15px 0px;
+        text-align: center;
+    }
+
+    #required .banner_heading {
+        margin-bottom: 22px;
+        text-align: center;
+    }
+
+    #required .button {
+        text-align: center !important;
+    }
+    /* :===required part end === */
+
+    /* ===new product part start === */
+    #new_product {
+        padding-top: 50px;
+    }
+
+    .heading {
+        font-size: 36px;
+    }
+    /* ===new product part end === */
+
+    /* ===discount part start === */
+
+    #discount {
+        padding-bottom: 74px;
+    }
+    #discount .img img {
+        margin: 20px 0;
+    }
+    /* ===discount part end === */
+
+    /* ===review part start === */
+    #review {
+        padding: 75px 0;
+    }
+
+    #review .heading_area {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* ===review part end === */
+
+    /* ===logo slider start === */
+    #logo_slider .item .img img{
+        margin: 0 auto;
+        width: 100%;
+    }
+    /* ===logo slider end === */
+
+    /* ===contact part start === */
+    #contact .contact_heading {
+        text-align: center;
+        margin: 30px 0 12px 0;
+    }
+
+    #contact ul {
+        align-items: center;
+    }
+    #contact ul li{
+        text-align: center;
+    }
+
+    .contact_bottom input {
+        width: 60%;
+    }
+
+    .contact_bottom form {
+        margin-top: 21px;
+        text-align: center;
+    }
+
+    .contact_bottom .social_icon a {
+        height: 35px;
+        width: 35px;
+    }
+
+    .contact_bottom .social_icon a i {
+        font-size: 19px;
+    }
+
+    #contact .contact_bottom .paragraph {
+        text-align: center !important;
+    }
+
+    .contact_bottom .social_icon{
+        margin-top: 30px;
+    }
+    #contact .contact_heading {
+        margin: 0;
+    }
+    /* ===contact part end === */
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* ==navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+    /* ==navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 57px;
+        text-align: center;
+    }
+
+    #banner .left .item1 {
+        padding: 250px 0px 250px 0;
+    }
+    #banner .left .item2 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item3 {
+        padding: 236px 0px 155px 0;
+    }
+
+    #banner .left .item h3 {
+        font-size: 40px;
+        text-align: center;
+        margin: 28px 0;
+    }
+
+    #banner .left .item .button {
+        text-align: center !important;
+    }
+    #banner .left .item .button a{
+        text-align: center;
+    }
+
+    #banner .right {
+        margin-top: 22px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #banner .right img{
+        width: 100%;
+    }
+    /* ===banner part end === */
+
+    /* :===required part start === */
+    #required {
+        padding: 100px 0;
+    }
+
+    #required h3 {
+        margin: 0 0px 15px 0px;
+        text-align: center;
+    }
+
+    #required .banner_heading {
+        margin-bottom: 22px;
+        text-align: center;
+    }
+
+    #required .button {
+        text-align: center !important;
+    }
+    /* :===required part end === */
+
+    /* ===new product part start === */
+    #new_product {
+        padding-top: 50px;
+    }
+
+    .heading {
+        font-size: 36px;
+    }
+    /* ===new product part end === */
+
+    /* ===discount part start === */
+
+    #discount {
+        padding-bottom: 75px;
+    }
+    #discount .img img {
+        margin: 20px 0;
+    }
+    /* ===discount part end === */
+
+    /* ===review part start === */
+    #review {
+        padding: 75px 0;
+    }
+
+    #review .heading_area {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* ===review part end === */
+
+    /* ===logo slider start === */
+    #logo_slider .item .img img{
+        margin: 0 auto;
+        width: 100%;
+    }
+    /* ===logo slider end === */
+
+    /* ===contact part start === */
+    #contact .contact_heading {
+        text-align: center;
+        margin: 30px 0 12px 0;
+    }
+
+    #contact ul {
+        align-items: center;
+    }
+    #contact ul li{
+        text-align: center;
+    }
+
+    .contact_bottom input {
+        width: 60%;
+    }
+
+    .contact_bottom form {
+        margin-top: 21px;
+        text-align: center;
+    }
+
+    .contact_bottom .social_icon a {
+        height: 35px;
+        width: 35px;
+    }
+
+    .contact_bottom .social_icon a i {
+        font-size: 19px;
+    }
+
+    #contact .contact_bottom .paragraph {
+        text-align: center !important;
+    }
+
+    .contact_bottom .social_icon{
+        margin-top: 30px;
+    }
+    #contact .contact_heading {
+        margin: 0;
+    }
+    /* ===contact part end === */
+
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* ==navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+    /* ==navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 46px;
+        text-align: center;
+    }
+
+    #banner .left .item1 {
+        padding: 236px 0px 236px 0;
+    }
+    #banner .left .item2 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item3 {
+        padding: 236px 0px 155px 0;
+    }
+
+    #banner .left .item h3 {
+        font-size: 33px;
+        text-align: center;
+        margin: 28px 0;
+    }
+
+    #banner .left .item .button {
+        text-align: center !important;
+    }
+    #banner .left .item .button a{
+        text-align: center;
+    }
+
+    #banner .right {
+        margin-top: 22px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #banner .right img{
+        width: 100%;
+    }
+    /* ===banner part end === */
+
+    /* :===required part start === */
+    #required {
+        padding: 100px 0;
+    }
+
+    #required h3 {
+        margin: 0 0px 15px 0px;
+        text-align: center;
+    }
+
+    #required .banner_heading {
+        margin-bottom: 22px;
+        text-align: center;
+    }
+
+    #required .button {
+        text-align: center !important;
+    }
+    /* :===required part end === */
+
+    /* ===new product part start === */
+    #new_product {
+        padding-top: 50px;
+    }
+
+    .heading {
+        font-size: 33px;
+    }
+    /* ===new product part end === */
+
+    /* ===discount part start === */
+
+    #discount {
+        padding-bottom: 15px;
+    }
+    #discount .img img {
+        margin: 20px 0;
+    }
+    /* ===discount part end === */
+
+    /* ===review part start === */
+    #review {
+        padding: 75px 0;
+    }
+
+    #review .heading_area {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* ===review part end === */
+
+    /* ===logo slider start === */
+    #logo_slider .item .img img{
+        margin: 0 auto;
+        width: 100%;
+    }
+    /* ===logo slider end === */
+
+    /* ===contact part start === */
+    #contact .contact_heading {
+        text-align: center;
+        margin: 30px 0 12px 0;
+    }
+
+    #contact ul {
+        align-items: center;
+    }
+    #contact ul li{
+        text-align: center;
+    }
+
+    .contact_bottom input {
+        width: 60%;
+    }
+
+    .contact_bottom form {
+        margin-top: 21px;
+        text-align: center;
+    }
+
+    .contact_bottom .social_icon a {
+        height: 35px;
+        width: 35px;
+    }
+
+    .contact_bottom .social_icon a i {
+        font-size: 19px;
+    }
+
+    #contact .contact_bottom .paragraph {
+        text-align: center !important;
+    }
+
+    .contact_bottom .social_icon{
+        margin-top: 30px;
+    }
+    #contact .contact_heading {
+        margin: 0;
+    }
+    /* ===contact part end === */
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* ==navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+    /* ==navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 46px;
+        text-align: center;
+    }
+
+    #banner .left .item1 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item2 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item3 {
+        padding: 236px 0px 155px 0;
+    }
+
+    #banner .left .item h3 {
+        font-size: 33px;
+        text-align: center;
+        margin: 28px 0;
+    }
+
+    #banner .left .item .button {
+        text-align: center !important;
+    }
+    #banner .left .item .button a{
+        text-align: center;
+    }
+
+    #banner .right {
+        margin-top: 22px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+    }
+
+    #banner .right img{
+        width: 100%;
+    }
+    /* ===banner part end === */
+
+    /* :===required part start === */
+    #required {
+        padding: 75px 0;
+    }
+
+    #required h3 {
+        margin: 0 0px 15px 0px;
+        text-align: center;
+    }
+
+    #required .banner_heading {
+        margin-bottom: 22px;
+        text-align: center;
+    }
+
+    #required .button {
+        text-align: center !important;
+    }
+    /* :===required part end === */
+
+    /* ===new product part start === */
+    #new_product {
+        padding-top: 50px;
+    }
+
+    .heading {
+        font-size: 33px;
+    }
+    /* ===new product part end === */
+
+    /* ===discount part start === */
+
+    #discount {
+        padding-bottom: 15px;
+    }
+    #discount .img img {
+        margin: 20px 0;
+    }
+    /* ===discount part end === */
+
+    /* ===review part start === */
+    #review {
+        padding: 75px 0;
+    }
+
+    #review .heading_area {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* ===review part end === */
+
+    /* ===logo slider start === */
+    #logo_slider .item .img img{
+        margin: 0 auto;
+        width: 100%;
+    }
+    /* ===logo slider end === */
+
+    /* ===contact part start === */
+    #contact .contact_heading {
+        text-align: center;
+        margin: 30px 0 12px 0;
+    }
+
+    #contact ul {
+        align-items: center;
+    }
+    #contact ul li{
+        text-align: center;
+    }
+
+    .contact_bottom input {
+        width: 60%;
+    }
+
+    .contact_bottom form {
+        margin-top: 21px;
+        text-align: center;
+    }
+
+    .contact_bottom .social_icon a {
+        height: 30px;
+        width: 30px;
+    }
+
+    .contact_bottom .social_icon a i {
+        font-size: 17px;
+    }
+
+    #contact .contact_bottom .paragraph {
+        text-align: center !important;
+    }
+
+    .contact_bottom .social_icon{
+        margin-top: 30px;
+    }
+    #contact .contact_heading {
+        margin: 0;
+    }
+    /* ===contact part end === */
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* ==navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+    /* ==navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 42px;
+        text-align: center;
+    }
+
+    #banner .left .item1 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item2 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item3 {
+        padding: 236px 0px 155px 0;
+    }
+
+    #banner .left .item h3 {
+        font-size: 33px;
+        text-align: center;
+        margin: 28px 0;
+    }
+
+    #banner .left .item .button {
+        text-align: center !important;
+    }
+    #banner .left .item .button a{
+        text-align: center;
+    }
+
+    #banner .right {
+        margin-top: 22px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+    }
+
+    #banner .right img{
+        width: 100%;
+    }
+    /* ===banner part end === */
+
+    /* :===required part start === */
+    #required {
+        padding: 75px 0;
+    }
+
+    #required h3 {
+        margin: 0 0px 15px 0px;
+        text-align: center;
+    }
+
+    #required .banner_heading {
+        margin-bottom: 22px;
+        text-align: center;
+    }
+
+    #required .button {
+        text-align: center !important;
+    }
+    /* :===required part end === */
+
+    /* ===new product part start === */
+    #new_product {
+        padding-top: 50px;
+    }
+
+    .heading {
+        font-size: 33px;
+    }
+    /* ===new product part end === */
+
+    /* ===discount part start === */
+
+    #discount {
+        padding-bottom: 15px;
+    }
+    #discount .img img {
+        margin: 20px 0;
+    }
+    /* ===discount part end === */
+
+    /* ===review part start === */
+    #review {
+        padding: 75px 0;
+    }
+
+    #review .heading_area {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* ===review part end === */
+
+    /* ===logo slider start === */
+    #logo_slider .item .img img{
+        margin: 0 auto;
+        width: 100%;
+    }
+    /* ===logo slider end === */
+
+    /* ===contact part start === */
+    #contact .contact_heading {
+        text-align: center;
+        margin: 30px 0 12px 0;
+    }
+
+    #contact ul {
+        align-items: center;
+    }
+    #contact ul li{
+        text-align: center;
+    }
+
+    .contact_bottom input {
+        width: 70%;
+    }
+
+    .contact_bottom form {
+        margin-top: 21px;
+        text-align: center;
+    }
+
+    .contact_bottom .social_icon a {
+        height: 30px;
+        width: 30px;
+    }
+
+    .contact_bottom .social_icon a i {
+        font-size: 17px;
+    }
+
+    #contact .contact_bottom .paragraph {
+        text-align: center !important;
+    }
+
+    .contact_bottom .social_icon{
+        margin-top: 30px;
+    }
+    #contact .contact_heading {
+        margin: 0;
+    }
+    /* ===contact part end === */
+
+}
+
+@media (max-width: 575.98px) {
+    /* ==navbar part start === */
+    #navbar .toggler_icon i {
+        font-size: 22px;
+        color: black;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+    /* ==navbar part end === */
+
+    /* ===banner part start === */
+    .banner_heading {
+        font-size: 38px;
+        text-align: center;
+    }
+
+    #banner .left .item1 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item2 {
+        padding: 236px 0px 155px 0;
+    }
+    #banner .left .item3 {
+        padding: 236px 0px 155px 0;
+    }
+
+    #banner .left .item h3 {
+        font-size: 33px;
+        text-align: center;
+        margin: 28px 0;
+    }
+
+    #banner .left .item .button {
+        text-align: center !important;
+    }
+    #banner .left .item .button a{
+        text-align: center;
+    }
+
+    #banner .right {
+        margin-top: 22px;
+        text-align: center;
+    }
+    /* ===banner part end === */
+
+    /* :===required part start === */
+    #required {
+        padding: 75px 0;
+    }
+
+    #required h3 {
+        margin: 0 0px 15px 0px;
+        text-align: center;
+    }
+
+    #required .banner_heading {
+        margin-bottom: 22px;
+        text-align: center;
+    }
+
+    #required .button {
+        text-align: center !important;
+    }
+    /* :===required part end === */
+
+    /* ===new product part start === */
+    #new_product {
+        padding-top: 50px;
+    }
+
+    .heading {
+        font-size: 33px;
+    }
+    /* ===new product part end === */
+
+    /* ===discount part start === */
+
+    #discount {
+        padding-bottom: 15px;
+    }
+    #discount .img img {
+        margin: 20px 0;
+    }
+    /* ===discount part end === */
+
+    /* ===review part start === */
+    #review {
+        padding: 75px 0;
+    }
+
+    #review .heading_area {
+        position: relative;
+        margin-bottom: 20px;
+    }
+    /* ===review part end === */
+
+    /* ===logo slider start === */
+    #logo_slider .item .img img{
+        margin: 0 auto;
+        width: 100%;
+    }
+    /* ===logo slider end === */
+
+    /* ===contact part start === */
+    #contact .contact_heading {
+        text-align: center;
+        margin: 30px 0 12px 0;
+    }
+
+    #contact ul {
+        align-items: center;
+    }
+    #contact ul li{
+        text-align: center;
+    }
+
+    .contact_bottom input {
+        width: 211px;
+    }
+
+    .contact_bottom form {
+        margin-top: 21px;
+        text-align: center;
+    }
+
+    .contact_bottom .social_icon a {
+        height: 30px;
+        width: 30px;
+    }
+
+    .contact_bottom .social_icon a i {
+        font-size: 17px;
+    }
+
+    #contact .contact_bottom .paragraph {
+        text-align: center !important;
+    }
+
+    .contact_bottom .social_icon{
+        margin-top: 30px;
+    }
+    #contact .contact_heading {
+        margin: 0;
+    }
+    /* ===contact part end === */
+
+}
